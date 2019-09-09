@@ -1,3 +1,12 @@
+Qt 5.13.1 for Linux - Minimal Installer
+Script by: joaopagotto
+
+Tested on:
+- Debian 10
+- Raspbian Buster Lite July 2019
+
+#--------------------------------------
+
 apt-get clean
 apt-get update
 apt-get dist-upgrade
