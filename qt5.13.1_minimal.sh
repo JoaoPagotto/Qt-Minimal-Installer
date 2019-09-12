@@ -136,7 +136,6 @@ cd qt-everywhere-src-5.13.1
  -opensource -confirm-license \
  -release \
  -no-vulkan \
- -no-xcb \
  -no-gbm \
  -no-pch \
  -no-use-gold-linker \
