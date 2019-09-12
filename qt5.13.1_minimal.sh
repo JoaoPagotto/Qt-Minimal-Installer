@@ -51,7 +51,7 @@ apt-get install \
  libxfixes-dev \
  libxi-dev \
  libxkbcommon-dev \
- libxkbcommon-x11-dev
+ libxkbcommon-x11-dev \
  libxrender-dev \
  nasm \
  xcb \
