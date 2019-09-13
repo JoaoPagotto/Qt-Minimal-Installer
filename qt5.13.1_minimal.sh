@@ -14,7 +14,7 @@ apt-get autoremove
 
 #--------------------------------------
 
-apt-get install mc rcconf vim pv subversion git openssh-server screen dos2unix
+apt-get install sudo net-tools mc rcconf vim pv subversion git openssh-server screen dos2unix
 
 #--------------------------------------
 
