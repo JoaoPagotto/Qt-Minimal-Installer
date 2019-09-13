@@ -71,6 +71,7 @@ cd qt-everywhere-src-5.13.1
 # -release \
 # -no-vulkan \
 # -no-xcb \
+# -no-xkb \
 # -no-gbm \
 # -no-pch \
 # -no-use-gold-linker \
@@ -136,6 +137,8 @@ cd qt-everywhere-src-5.13.1
  -opensource -confirm-license \
  -release \
  -no-vulkan \
+ -no-xcb \
+ -no-xkb \
  -no-gbm \
  -no-pch \
  -no-use-gold-linker \
